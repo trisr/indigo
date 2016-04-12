@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Tris Ramadhan
+bio: 'Web Developer'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://trisr.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
